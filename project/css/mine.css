@@ -1,0 +1,110 @@
+.hd{
+  background-image: url("../resized_images/5.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;    
+}
+.name11{
+  text-align: center;
+  color: aliceblue;
+  font-size: 60px;
+  font-family: Andalus;
+  padding-top:  100px;
+  margin: auto;
+  min-width: 100%;
+ }
+.sh{
+  background-color:#34495e;
+  color: aliceblue;
+  height: 30px;
+  font-size: 20px;
+  font-family: CityBlueprint;
+  }
+.mydiv{
+  float:right;
+  width: 90%; 
+ }
+html{
+  direction:rtl;       
+ }
+ .df{
+  float:right;
+  text-align: right;      
+  color:  aliceblue;
+  padding-top: 100px;
+  padding-left: 100px;
+  width: 100%;
+  min-width:50%;        
+ }
+.qq{
+  float:right;
+  text-align: right;
+  color: aliceblue;
+  font-size: 15px;         
+ }
+body ,.container{
+  background-image: url("../resized_images/bac13.jpg");
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  display: block;
+  margin: auto;
+  background-size: 100% 100%;
+  padding-bottom: 30px;
+                
+                
+ } 
+a{
+  color: aliceblue;                   
+ }  
+.bb{
+  width: 50%;
+  min-width: 400px;
+  min-height: 400px;
+  height: 50%;
+  margin:auto;
+  margin-top: 100px;               
+ }          
+.myul{
+  list-style-type: square ;
+  list-style-position: inside;
+  text-align: right;                    
+ }  
+.jumbotron,.jumbtron-flui {
+  background-image: url("../resized_images/bac13.jpg");
+  background-repeat: no-repeat;
+  background-size : 100% 200%;
+  color: aliceblue;
+  padding-top: 0px;
+  margin-top:0px;
+  padding: 10px;
+                      
+ }    
+.navb{
+  background-color:#34495e;
+  min-width: 20%;
+  min-height: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+ }
+.lib a:hover {
+  background-color: #7f8c8d;
+               
+ }
+.ju,.jumbtron-fluid{
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: right;
+ }
+  section{
+
+  width: 60%;
+  height: 50%;
+  padding: 10px;
+  margin: auto;
+  min-width: 480px;
+  min-height: 400px;
+  }
+                  
+                    
+
+            
