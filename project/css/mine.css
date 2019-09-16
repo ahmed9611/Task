@@ -42,18 +42,18 @@ body,.container {
   min-width: 385px;
 } 
 #myjum{
-     color: aliceblue;
-     text-align: right;
-     padding: 10px;
+  color: aliceblue;
+  text-align: right;
+  padding: 10px;
 } 
 .myname1{
-    float:right;
-    text-align: right;      
-    color: aliceblue;
-    padding-top: 10px;
-    width: 100%;
-    min-width:50%; 
-    font-size: 30px;       
+  float:right;
+  text-align: right;      
+  color: aliceblue;
+  padding-top: 10px;
+  width: 100%;
+  min-width:50%; 
+  font-size: 30px;       
 }
 .name11{
   text-align: center;
